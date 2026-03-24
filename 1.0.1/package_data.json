@@ -1,50 +1,44 @@
 {
-    "name": "-f0re7tpunk-resume",
+    "name": "005",
     "version": "1.0.1",
-    "description": "This me.",
+    "description": "",
     "main": "index.js",
     "bin": {
-        "your-command-here": "index.js"
+        "005": "index.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
     "author": "",
     "license": "ISC",
-    "gitHead": "c48390953b57886893d6be6e815613f6db796016",
-    "_id": "-f0re7tpunk-resume@1.0.1",
-    "_nodeVersion": "10.19.0",
-    "_npmVersion": "6.14.11",
+    "_id": "005@1.0.1",
+    "_shasum": "aaef245ea0c4c5580e4b9498bd3dc4f1ce66a8bb",
+    "_from": ".",
+    "_npmVersion": "3.10.10",
+    "_nodeVersion": "6.10.3",
+    "_npmUser": {
+        "name": "564422415",
+        "email": "564422415@qq.com"
+    },
     "dist": {
-        "integrity": "sha512-WZjvHWDGcPZ4JX1k8FujWSVtRAxkX5/5iUFzu3adLsFAB7P7/q6N8q4PGNFNcxwLSEE3GqbOIZk8NA3/d+YRVA==",
-        "shasum": "9b527b4445f686730a8e5f807f920e039fe7094c",
-        "tarball": "https://registry.npmjs.org/-f0re7tpunk-resume/-/-f0re7tpunk-resume-1.0.1.tgz",
-        "fileCount": 4,
-        "unpackedSize": 888,
-        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgUlXwCRA9TVsSAnZWagAAYcQP/jU7Bki+DrajUMidOTME\nqxCBo3hUhO6o/00GUjpZmrawvKhr0eLWnTBVuKuqQanzWJSDkpA4wb2Krgh8\nTgoXq3oJxrWMmOWQgS2qgYVnWHcRT+Z2d5SXZRDDoCldQYuy1vhkttroHzlV\nKdhSkh406DFV+HC/VDJ2fL7aGBSG0BjST5JkyWdh/tx/40v9hl416JGXfXCr\n3y1+26HCxMF/Ho6RzxDZ1lbzPXrlCFy9E9WflZwELm4DRXLEYAGsRvwZZm50\npSXVnzerc6A7DnzyYpt00q+nI/acE72PKjU3O1KEE6oRqQCXUc6sMlK3uXJP\no+CTpTxx/up0tHxhxC3m0XkzoEZcjQihuIJpRBuK0dcbZzFtAobXJuW88DKt\n9oWmD09mbDCNoknm8QUG436SDSlS0/kCVKcbtn/CWystxmE1pKUKVykW0WDe\nz0KM5KntlWUjskDhKzm5D7rAZbGx/t89SUQ5ylDZWOZXWQPQrr/phnysBhKF\nO655h6qu5h90O6zVpC2NTa6GCi2haTr1s43z/HuHP/xAY2GS++/YZx9XpKsU\nxtFjUpxjFVlqFMN39bQqpe++7njNoJIlFbVoU+cGGJ7snpzUN/5zJN+Avhos\n4S4oSi4YezBqjBcut9MKqdqgUhVuP4IndPlo43qt5dQX1I+j4vNyuVcpExH9\nPbLl\r\n=eyYE\r\n-----END PGP SIGNATURE-----\r\n",
+        "shasum": "aaef245ea0c4c5580e4b9498bd3dc4f1ce66a8bb",
+        "tarball": "https://registry.npmjs.org/005/-/005-1.0.1.tgz",
+        "integrity": "sha512-CnQH2CUwaz6R0ig7RvlmpuIRgLO+SdVKXFUf9SAEcXHNakjkVeulRPbc+ROpfVFQgVbNoAer3SuuUwBRR6r2vA==",
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEUCIAxAtE0inSrB++LruPUM/MDvdnuYPIATwzyMYw885ZbkAiEApVdKTOJQlBue3FhKF8nPJIdE9dJ8uPIofwm9MBQrIFc="
+                "sig": "MEQCIHo+JPLg5yV9QjDJfsnFuCEKlL40+QSUBdsZ4BkznR+QAiAePsIYq/A2ZNWjZAx2VGhADFpys0S6FJBy4Vhx5RCTow=="
             }
         ]
     },
-    "_npmUser": {
-        "name": "f0re7tpunk",
-        "email": "michaelremsha@gmail.com"
-    },
-    "directories": {},
     "maintainers": [
         {
-            "name": "f0re7tpunk",
-            "email": "michaelremsha@gmail.com"
+            "name": "564422415",
+            "email": "564422415@qq.com"
         }
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/-f0re7tpunk-resume_1.0.1_1616008687770_0.9356890438537655"
-    },
-    "_hasShrinkwrap": false,
-    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+        "tmp": "tmp/005-1.0.1.tgz_1501063124084_0.6682108968961984"
+    }
 }
