@@ -1,0 +1,55 @@
+{
+    "name": "-ai..5k88-simple-calculator",
+    "version": "1.0.4",
+    "description": "A simple calcultor with Typescript, Node.js and Inquirer",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-ai..5k88-simple-calculator": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Areeba Shabbir"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-ai..5k88-simple-calculator@1.0.4",
+    "_nodeVersion": "21.6.2",
+    "_npmVersion": "10.5.1",
+    "dist": {
+        "integrity": "sha512-gZi+u147TLEUtqFUpwGQS7PIGql1De0yCgB0n+Db181qy8+rT/snB3z1pXKvsOLJWrUbLHGCLnJQsyRfGUGBGg==",
+        "shasum": "3e379430077f4ba5df4383fd08a9775efea64480",
+        "tarball": "https://registry.npmjs.org/-ai..5k88-simple-calculator/-/-ai..5k88-simple-calculator-1.0.4.tgz",
+        "fileCount": 6,
+        "unpackedSize": 14792,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCXJuZwwqro03JOd6VG/U/JDDy+ZlYqA7JWJOWxcDOyAgIgEdceZOP9XxyfX55iOa27Zm32w2nTIbFB1AMlfJFq3UA="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "areeba-shabbir",
+        "email": "shabbirareeba94@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "areeba-shabbir",
+            "email": "shabbirareeba94@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-ai..5k88-simple-calculator_1.0.4_1714278133451_0.8113652725901122"
+    },
+    "_hasShrinkwrap": false
+}
